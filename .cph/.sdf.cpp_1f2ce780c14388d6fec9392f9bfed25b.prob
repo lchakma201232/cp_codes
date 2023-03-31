@@ -1,0 +1,1 @@
+{"name":"Local: sdf","url":"/home/coding/sdf.cpp","tests":[{"id":1664852432342,"input":"4\n2 M\n4577 ATM\n491 AX\n132 A","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/coding/sdf.cpp","group":"local","local":true}

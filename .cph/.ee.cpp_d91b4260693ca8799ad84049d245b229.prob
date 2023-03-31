@@ -1,0 +1,1 @@
+{"name":"Local: ee","url":"/home/coding/ee.cpp","tests":[{"id":1674625652091,"input":"5\n11\n123\n101\n1111\n99999\n","output":"10\n65\n-1\n220\n2001"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/coding/ee.cpp","group":"local","local":true}

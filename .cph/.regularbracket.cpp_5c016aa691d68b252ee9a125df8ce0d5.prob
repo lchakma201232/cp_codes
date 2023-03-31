@@ -1,0 +1,1 @@
+{"name":"Local: regularbracket","url":"/home/coding/regularbracket.cpp","tests":[{"id":1671766050881,"input":")((())))(()())\n","output":""},{"id":1671766744446,"input":"))(","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/coding/regularbracket.cpp","group":"local","local":true}

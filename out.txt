@@ -1,0 +1,12 @@
+Case 1: 1
+Case 2: 3
+Case 3: 13
+Case 4: 431
+Case 5: 9915
+Case 6: 2243
+Case 7: 6911
+Case 8: 6021
+Case 9: 8831
+Case 10: 8285
+Case 11: 8409
+Case 12: 8409

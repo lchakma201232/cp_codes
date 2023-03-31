@@ -1,0 +1,1 @@
+{"name":"Local: kth","url":"/home/coding/kth.cpp","tests":[{"id":1660742375555,"input":"4 2\n","output":""},{"id":1660742378902,"input":"5 3\n","output":""},{"id":1660742382255,"input":"12 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/coding/kth.cpp","group":"local","local":true}

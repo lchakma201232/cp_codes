@@ -1,0 +1,1 @@
+{"name":"Local: mental_rotation","url":"/home/coding/mental_rotation.cpp","tests":[{"id":1674216208875,"input":"3 RRR\n>v>\n...\n<^<","output":"^.v\n>.<\n^.v\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/coding/mental_rotation.cpp","group":"local","local":true}

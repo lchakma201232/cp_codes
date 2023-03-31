@@ -1,0 +1,1 @@
+{"name":"Local: google","url":"/home/coding/google.cpp","tests":[{"id":1660565843555,"input":"1\n10000 5000\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/coding/google.cpp","group":"local","local":true}

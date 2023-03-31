@@ -1,0 +1,1 @@
+{"name":"Local: omar","url":"/home/coding/omar.cpp","tests":[{"id":1670341301481,"input":"3 4\n2 5 3 4\n4 7 1 5\n3 0 5 8\n1 1 2 3\n0 0 0 0\n0 0 0 2\n0 2 0 0\n1 1 1 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/coding/omar.cpp","group":"local","local":true}

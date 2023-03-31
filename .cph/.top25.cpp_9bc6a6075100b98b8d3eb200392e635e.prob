@@ -1,0 +1,1 @@
+{"name":"Local: top25","url":"/home/coding/top25.cpp","tests":[{"id":1674628072110,"input":"3\n5\nA B C D E\nA C E D B\n3\nRED\nBLUE\nORANGE\nRED\nBLUE\nORANGE\n3\nMOE\nLARRY\nCURLY\nCURLY\nMOE\nLARRY","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/coding/top25.cpp","group":"local","local":true}

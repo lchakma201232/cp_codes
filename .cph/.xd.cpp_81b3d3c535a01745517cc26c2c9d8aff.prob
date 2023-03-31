@@ -1,0 +1,1 @@
+{"name":"Local: xd","url":"/home/coding/xd.cpp","tests":[{"id":1661617363257,"input":"10\n1 5 8 9 10 17 17 20 24 15","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/coding/xd.cpp","group":"local","local":true}
